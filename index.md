@@ -408,7 +408,6 @@ to include the relevant installation instrucctions.
 Custom edit by Yesol: following lines add r and shell installation instruction without depending on dc/swc values.
 {% endcomment %}
 
-{% include install_instructions/shell.html %}
 {% include install_instructions/r.html %}
 
 
